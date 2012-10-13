@@ -3,6 +3,8 @@ TileSlide.js
 
 A simple jQuery plugin to make image tiles on your website animate to reveal more information.
 
+Demo: http://hbradlow.github.com/tileslide.js/
+
 ##Usage
 
 ###HTML
