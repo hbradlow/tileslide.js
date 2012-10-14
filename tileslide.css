@@ -2,6 +2,7 @@
     position:absolute;
     width:250px;
     z-index:1;
+    color:#eee;
 }
 .tile_img{
     position:absolute;
@@ -9,11 +10,12 @@
     top:0px;
     left:0px;
     z-index:1;
+    margin:0px;
+    padding:0px;
 }
 .tile_text{
-    color:#eee;
     background: gray;
-    height:100px;
+    height:60px;
     width:100%;
     position:absolute;
     top:100px;
