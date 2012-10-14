@@ -17,7 +17,7 @@ Demo: http://hbradlow.github.com/tileslide.js/
         </div>
     </div>
 
-###Styleing
+###Styling
 
     <link href="css/tileslide.css" rel="stylesheet">
     
